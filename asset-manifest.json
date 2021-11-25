@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/KlayAhmed.github.io/portfolio/static/css/main.12d1f181.chunk.css",
+    "main.js": "/KlayAhmed.github.io/portfolio/static/js/main.0ecdeadc.chunk.js",
+    "main.js.map": "/KlayAhmed.github.io/portfolio/static/js/main.0ecdeadc.chunk.js.map",
+    "runtime-main.js": "/KlayAhmed.github.io/portfolio/static/js/runtime-main.2fe9a29c.js",
+    "runtime-main.js.map": "/KlayAhmed.github.io/portfolio/static/js/runtime-main.2fe9a29c.js.map",
+    "static/js/2.74618399.chunk.js": "/KlayAhmed.github.io/portfolio/static/js/2.74618399.chunk.js",
+    "static/js/2.74618399.chunk.js.map": "/KlayAhmed.github.io/portfolio/static/js/2.74618399.chunk.js.map",
+    "index.html": "/KlayAhmed.github.io/portfolio/index.html",
+    "static/css/main.12d1f181.chunk.css.map": "/KlayAhmed.github.io/portfolio/static/css/main.12d1f181.chunk.css.map",
+    "static/js/2.74618399.chunk.js.LICENSE.txt": "/KlayAhmed.github.io/portfolio/static/js/2.74618399.chunk.js.LICENSE.txt",
+    "static/media/KlayToDo.9d4a3299.png": "/KlayAhmed.github.io/portfolio/static/media/KlayToDo.9d4a3299.png",
+    "static/media/chat.e912cbf5.jpg": "/KlayAhmed.github.io/portfolio/static/media/chat.e912cbf5.jpg",
+    "static/media/pic.ea6f8475.jpg": "/KlayAhmed.github.io/portfolio/static/media/pic.ea6f8475.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fe9a29c.js",
+    "static/js/2.74618399.chunk.js",
+    "static/css/main.12d1f181.chunk.css",
+    "static/js/main.0ecdeadc.chunk.js"
+  ]
+}
